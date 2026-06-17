@@ -1,6 +1,10 @@
 # Social-Engineering
 Notes I have made so far.
 ------------------------------------
+# Check the PDF for a Better Format
+
+
+
 Each target will be different, study the before interacting. Don't be naive.
 
 Recommended readings:
